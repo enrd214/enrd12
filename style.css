@@ -3,6 +3,7 @@ body{
   padding: 0;
   background-image: url("tokyo.jpg");
   background-size: cover;
+  background-repeat: no-repeat;
 }
 .box{
   width: 450px;
