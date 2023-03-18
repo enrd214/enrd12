@@ -2,7 +2,7 @@ body{
   margin: 0;
   padding: 0;
   background-image: url("tokyo.jpg");
-  background-size: cover;
+  background-size: 250%;
   background-repeat: no-repeat;
 }
 .box{
