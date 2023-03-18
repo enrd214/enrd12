@@ -2,7 +2,7 @@ body{
   margin: 0;
   padding: 0;
   background-image: url("bg.jpg");
-  background-size: cover;
+  background-size: 380%;
   background-repeat: no-repeat;
 }
 .box{
